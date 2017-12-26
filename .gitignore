@@ -1,0 +1,25 @@
+bib
+pkg
+miniconda3
+bin
+data
+Desktop
+doc
+Dropbox
+Downloads
+Copy
+Pictures
+Library
+media
+pub
+talk
+grant
+src
+tmp
+course
+VirtualBox VMs
+.*
+NVIDIA_CUDA-5.0_Samples
+ProgramasRFB
+.pypirc
+kdenlive
